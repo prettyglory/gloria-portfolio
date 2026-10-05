@@ -1,0 +1,20 @@
+GLORIA BENETH MBILINYI
+Computer Engineering Student | Software Developer | AI & IoT Enthusiast
+GitHub: https://github.com/prettyglory
+
+PROFILE
+Computer Engineering student at Dar es Salaam Institute of Technology with practical experience in software development, AI/ML, RAG, IoT, embedded systems, networking, and data analysis. Passionate about turning real-world problems into practical technical solutions.
+
+EDUCATION
+2024–Present — Bachelor of Engineering in Computer Engineering, DIT Main Campus
+2021–2024 — Diploma in Leather Product Technology, DIT Mwanza Campus (GPA 4.6)
+2017–2020 — Secondary Education, Mukilima Secondary School (Division One)
+Completed 2016 — Primary Education, Mwembetogwa B Primary School
+
+SELECTED PROJECTS
+Smart Clinic Management System · DIT Smart Assistant · Wild Animal Detection System · LiftSystem · Smart Water Tank Monitoring · Wireless Sensor Network · Gee Player · SafariSmart TZ · Tourism Chatbot · Animal Detector
+
+TECHNICAL SKILLS
+Java, Python, JavaScript, Dart, SQL, C/C++, Spring Boot, React, Flutter, TensorFlow, RAG, PostgreSQL, Arduino, ESP32, Computer Networking, Git
+
+Note: Replace this text draft with Gloria's complete PDF CV when available.
